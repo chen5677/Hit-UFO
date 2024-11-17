@@ -1,0 +1,4 @@
+repository "Playing Frisbee@tj_wechat_os_qy02noihpbcxhofqjg1h5lum8@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
